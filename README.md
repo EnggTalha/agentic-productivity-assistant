@@ -262,6 +262,6 @@ MIT — see [LICENSE](LICENSE)
 
 ## 🙋 Author
 
-Built by [Your Name](https://github.com/yourusername)
+Built by [EnggTalha](https://github.com/EnggTalha)
 
 > ⭐ Star this repo if it made your mornings smoother!
